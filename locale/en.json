@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Perplexity guard",
+    "description": "Repairs Opus 5.5, Sonnet 5.5, and GPT-6.1 Sol requests and provider settings so the Perplexity API keeps working through long sessions."
+  }
+}
