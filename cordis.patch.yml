@@ -1,0 +1,3 @@
+- insert:
+    - id: perplexity-guard
+      name: '@local/perplexity-guard'
