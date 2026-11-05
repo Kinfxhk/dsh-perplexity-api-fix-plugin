@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Perplexity 守護",
+    "description": "修補 Opus 5.5、Sonnet 5.5 同 GPT-6.1 Sol 的請求參數同 provider 設定，令 Perplexity API 可以長時間穩定運作。"
+  }
+}
